@@ -16,7 +16,7 @@ class Suspender{
             var pointB= this.Suspender.bodyB.position;
 
             //stroke(0);
-            strokeWeight (4)
+            strokeWeight (1)
             var Anchor1X = pointA.x
             var Anchor1Y = pointA.y
             
